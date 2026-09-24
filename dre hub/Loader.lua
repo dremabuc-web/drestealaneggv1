@@ -2,7 +2,7 @@
 -- DRE HUB | STEAL AN EGG | Loader
 -- ==================================================
 
-local BASE_URL = "https://raw.githubusercontent.com/betdoyvaka/stealanegg/main/"
+local BASE_URL = "https://raw.githubusercontent.com/dremabuc-web/drestealaneggv1/refs/heads/main/"
 
 _G.DRE_EnablePrint = false
 
